@@ -1,0 +1,15 @@
+D:\ProjetosC#\DesafioDoM\DesafioDoM\bin\Debug\net7.0\DesafioDoM.exe
+D:\ProjetosC#\DesafioDoM\DesafioDoM\bin\Debug\net7.0\DesafioDoM.deps.json
+D:\ProjetosC#\DesafioDoM\DesafioDoM\bin\Debug\net7.0\DesafioDoM.runtimeconfig.json
+D:\ProjetosC#\DesafioDoM\DesafioDoM\bin\Debug\net7.0\DesafioDoM.dll
+D:\ProjetosC#\DesafioDoM\DesafioDoM\bin\Debug\net7.0\DesafioDoM.pdb
+D:\ProjetosC#\DesafioDoM\DesafioDoM\obj\Debug\net7.0\DesafioDoM.csproj.AssemblyReference.cache
+D:\ProjetosC#\DesafioDoM\DesafioDoM\obj\Debug\net7.0\DesafioDoM.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosC#\DesafioDoM\DesafioDoM\obj\Debug\net7.0\DesafioDoM.AssemblyInfoInputs.cache
+D:\ProjetosC#\DesafioDoM\DesafioDoM\obj\Debug\net7.0\DesafioDoM.AssemblyInfo.cs
+D:\ProjetosC#\DesafioDoM\DesafioDoM\obj\Debug\net7.0\DesafioDoM.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\DesafioDoM\DesafioDoM\obj\Debug\net7.0\DesafioDoM.dll
+D:\ProjetosC#\DesafioDoM\DesafioDoM\obj\Debug\net7.0\refint\DesafioDoM.dll
+D:\ProjetosC#\DesafioDoM\DesafioDoM\obj\Debug\net7.0\DesafioDoM.pdb
+D:\ProjetosC#\DesafioDoM\DesafioDoM\obj\Debug\net7.0\DesafioDoM.genruntimeconfig.cache
+D:\ProjetosC#\DesafioDoM\DesafioDoM\obj\Debug\net7.0\ref\DesafioDoM.dll

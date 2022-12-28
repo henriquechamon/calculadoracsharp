@@ -1,0 +1,15 @@
+D:\ProjetosC#\DesafioDoM\DesafioDoM\bin\Debug\net7.0\Calculadora.exe
+D:\ProjetosC#\DesafioDoM\DesafioDoM\bin\Debug\net7.0\Calculadora.deps.json
+D:\ProjetosC#\DesafioDoM\DesafioDoM\bin\Debug\net7.0\Calculadora.runtimeconfig.json
+D:\ProjetosC#\DesafioDoM\DesafioDoM\bin\Debug\net7.0\Calculadora.dll
+D:\ProjetosC#\DesafioDoM\DesafioDoM\bin\Debug\net7.0\Calculadora.pdb
+D:\ProjetosC#\DesafioDoM\DesafioDoM\obj\Debug\net7.0\Calculadora.csproj.AssemblyReference.cache
+D:\ProjetosC#\DesafioDoM\DesafioDoM\obj\Debug\net7.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosC#\DesafioDoM\DesafioDoM\obj\Debug\net7.0\Calculadora.AssemblyInfoInputs.cache
+D:\ProjetosC#\DesafioDoM\DesafioDoM\obj\Debug\net7.0\Calculadora.AssemblyInfo.cs
+D:\ProjetosC#\DesafioDoM\DesafioDoM\obj\Debug\net7.0\Calculadora.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\DesafioDoM\DesafioDoM\obj\Debug\net7.0\Calculadora.dll
+D:\ProjetosC#\DesafioDoM\DesafioDoM\obj\Debug\net7.0\refint\Calculadora.dll
+D:\ProjetosC#\DesafioDoM\DesafioDoM\obj\Debug\net7.0\Calculadora.pdb
+D:\ProjetosC#\DesafioDoM\DesafioDoM\obj\Debug\net7.0\Calculadora.genruntimeconfig.cache
+D:\ProjetosC#\DesafioDoM\DesafioDoM\obj\Debug\net7.0\ref\Calculadora.dll
